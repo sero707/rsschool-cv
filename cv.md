@@ -35,3 +35,6 @@ Currently, I work in a company that develops and manufactures fire and security 
 - Belarusian State University of Informatics and Radioelectronics, Information technology and management
 - BSUIR "Minsk Radioengineering College, Microectronic technologies and systems
 - Courses: Udemy (JavaScript + React), Udemy (web-develops), RS SCHOOL (S/FE Pre-School 2022Q4)
+
+## Languages
+- English (A1+, A2)
