@@ -30,3 +30,8 @@ Currently, I work in a company that develops and manufactures fire and security 
         });
 
 ## Experience
+
+## Education
+- Belarusian State University of Informatics and Radioelectronics, Information technology and management
+- BSUIR "Minsk Radioengineering College, Microectronic technologies and systems
+- Courses: Udemy (JavaScript + React), Udemy (web-develops), RS SCHOOL (S/FE Pre-School 2022Q4)
